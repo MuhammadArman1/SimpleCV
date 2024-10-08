@@ -1,7 +1,7 @@
 export default function contact(){
     return (
         <>
-        <h2 className="text-center mt-8 text-7xl">CONTACT ME</h2>
+        <h2 className="text-center mt-16 text-7xl">CONTACT ME</h2>
         <form>
             <label>NAME</label>
             <input type="text" />
